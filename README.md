@@ -15,9 +15,9 @@ and modern interface.
 INSTALACIÓN / INSTALLATION
 ---------------------------------------------------------
 No requiere instalación compleja. Simplemente ejecutá 
-el archivo "Iniciar_Player.bat" para lanzar la interfaz.
+el archivo "MusicPL.exe" para lanzar la interfaz.
 No complex installation required. Simply run the 
-"Iniciar_Player.bat" file to launch the interface.
+"MusicPL.exe" file to launch the interface.
 
 ---------------------------------------------------------
 SOLUCIÓN DE PROBLEMAS / TROUBLESHOOTING
