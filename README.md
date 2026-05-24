@@ -39,12 +39,12 @@ DETALLES IMPORTANTES / IMPORTANT DETAILS
 Todo este proyecto ha sido desarrollado completamente 
 mediante inteligencia artificial con fines puramente 
 recreativos. Si alguien te cobró dinero por esta 
-aplicación, has sido víctima de una estafa.Puede que contenga errores, pero se mejorará en el futuro.
+aplicación, has sido víctima de una estafa. Puede que contenga errores, pero se mejorará en el futuro.
 
 This entire project has been developed entirely through 
 artificial intelligence for purely recreational 
 purposes. If someone charged you money for this 
-application, you have been scammed.This may have errors, but it will be improved in the future.
+application, you have been scammed. This may have errors, but it will be improved in the future.
 
 =========================================================
 VERSION: 1.0
